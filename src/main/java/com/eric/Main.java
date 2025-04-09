@@ -7,8 +7,8 @@ public class Main {
         int[] numbers = {1, 2, 3, 4, 5, 6};
         System.out.println(Arrays.toString(numbers));
 
-        String[] names = {"Alice", "Bob", "Charlie"};
-        char[] alphabets = {'A', 'B', 'C', 'D', 'E'};
+        String[] names = {"Alice", "Bob", "Sonia"};
+        char[] alphabets = {'A', 'B', 'C', 'D'};
         double[] decimals = {1.1, 2.2, 3.3, 4.4, 5.5};
 
         int[] daysOfTheWeek = new int[7];
